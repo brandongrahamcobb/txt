@@ -1,0 +1,14 @@
+aiomysql
+biopython
+bs4
+discord.py
+emoji
+google-api-python-client
+googletrans==4.0.0-rc1
+pip
+pubchempy
+pillow
+requests
+rdkit
+selenium
+webdriver_manager
